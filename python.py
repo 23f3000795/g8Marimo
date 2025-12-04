@@ -6,7 +6,7 @@ app = marimo.App(width="medium")
 
 @app.cell
 def __():
-    # Email: abc@gmail.com
+    # Email: 23f3000795@ds.study.iitm.ac.in
     # Cell 1: Import libraries and create sample dataset
     # This cell generates the base data that will be used throughout the notebook
     
